@@ -36,4 +36,5 @@ def display_board
       print "|"
     end
   end
+  print "\n"
 end
