@@ -1,6 +1,6 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
 #Holds values for 9 spaces on the board
-board = ["   ", "   ", "   ", "   ", "   ", "   ", "   ","   ", "   "]
+board = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
 
 #prints first line of board
 (0..2).each do |i|
